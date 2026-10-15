@@ -7,8 +7,8 @@
 * **Ciclo Formativo:** Formación Profesional Gráfica / Grado Medio en Sistemas Microinformáticos y Redes (SMR)
 * **Módulo Profesional:** Aplicaciones Web
 * **Título de la Práctica:** Instalación, configuración y securización del servidor web Apache en Ubuntu 24.04 LTS
-* **Alumno:** [jeremi coronel]
-* **Fecha de Realización:** [15/10/2026]
+* **Alumno:** jeremi coronel
+* **Fecha de Realización:** 15/10/2026
 * **Entorno de Pruebas:** Máquina Virtual en VirtualBox con Ubuntu 24.04 LTS Server/Desktop
 
 ---
