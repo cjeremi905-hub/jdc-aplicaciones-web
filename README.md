@@ -59,7 +59,7 @@ Basados en nombre: Múltiples sitios web comparten la misma dirección IP y el s
 
 <img width="628" height="116" alt="e0c45e6a-a084-471a-9138-2de4462fc225" src="https://github.com/user-attachments/assets/a603f29b-4c6a-41cd-b526-3d647704d20b" />
 
-
+- [Práctica: Instalación de MariaDB y PHP (LAMP)](practica-mariadb.md)
 
 
 
