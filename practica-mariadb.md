@@ -1,6 +1,4 @@
 # Práctica: Instalación de MariaDB y PHP en Ubuntu 24.04
-* **Módulo:** Aplicaciones Web
-* **Ciclo:** Sistemas Microinformáticos y Redes (SMR)
 * **Alumno:** Jeremi Coronel
 * **Fecha:** 22/10/2026
 
