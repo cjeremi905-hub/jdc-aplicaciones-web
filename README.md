@@ -61,7 +61,7 @@ Basados en nombre: Múltiples sitios web comparten la misma dirección IP y el s
 
 - [Práctica: Instalación de MariaDB y PHP (LAMP)](practica-mariadb.md)
 
-
+* [Práctica: Instalación de WordPress en Ubuntu 24.04](practica-wordpress.md)
 
 
 
